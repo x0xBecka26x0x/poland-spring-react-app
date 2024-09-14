@@ -1,6 +1,7 @@
 import React from "react";
 import Weather from "./Weather";
 import './App.css';
+//import { Circles } from 'react-loader-spinner';
 
 function App() {
   return (
@@ -15,5 +16,14 @@ function App() {
     </div>
   );
 }
+        
+            //{<}Circles,
+              //type="Puff",
+              //color="#00BFFF",
+              //height={100},
+              //width={100},
+              //timeout={3000},
+             ///{">"}`
+      
 
 export default App;
